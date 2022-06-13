@@ -2,7 +2,7 @@
 
 app generates random numbers for lotto
 
-live preview:
+live preview: https://michaljakubhoppe.github.io/Lotto-mini-JS-project/
 
 includes button and nice visuals for the end user
 
